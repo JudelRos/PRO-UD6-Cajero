@@ -27,7 +27,7 @@ closed until there are no more clients on the queue.
 
 ## How can i use this app?
 
-![HIPERDINO](assets\Menu_Hiperdino.png)
+![HIPERDINO](https://raw.githubusercontent.com/JudelRos/PRO-UD6-Cajero/main/assets/Menu_Hiperdino.png)
 
 1. **Open cashier** - Opens a new cashier for clients to check out, if there is no cashier open, clients cannot form a new queue.
 2. **Add new client** - Generates a new client with a random amount of products linked to them through a cart and a random name attached to them from a set list.
