@@ -102,6 +102,11 @@ public class Cashier {
         return clientNames;
     }
 
+    /**
+     * Overrides the function toString to obtain information about the required
+     * object
+     * matching the professor enquires.
+     */
     @Override
     public String toString() {
         return "* Número de caja: " + "< " + this.cashierNumber + " > \n" + "* Total de clientes: " + "< "
